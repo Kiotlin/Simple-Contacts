@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><Student>
+<student><id>123456</id><name>Kiotlin</name><sex>male</sex><age>19</age><birth>1996年5月</birth><tel>12356789</tel><address>CN</address><mail>example</mail><major>CS</major></student></Student>
