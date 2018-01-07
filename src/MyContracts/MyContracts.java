@@ -240,7 +240,7 @@ public class MyContracts extends JFrame {
      ******************************************************/
     public org.w3c.dom.Document getDocument() throws Exception{
         //加载XML
-        xmlFile = new File("src/res/book.xml");
+        xmlFile = new File("res/book.xml");
 
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 
