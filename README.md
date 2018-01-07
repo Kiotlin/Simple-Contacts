@@ -13,6 +13,5 @@ The project has been written, and built using Intellij IDEA for Java Developers 
 # How to use
  - If you have a IDE (e.g.Intellij IDEA,Eclipse,etc),import the project and excute the main method
  - I have allready build the **.jar** file (./out/artifacts/) ,you can excute by `java -jar myContracts.jar` .
-# Enjoy :)
 # License
 GNU GPLv3
