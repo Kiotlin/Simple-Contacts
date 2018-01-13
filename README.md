@@ -11,7 +11,7 @@ The project has been written, and built using Intellij IDEA for Java Developers 
  - Search for some key words(I have only finished ***Search_By_Name*** :))
  Thus, all basic features of a contact have been implemented.
 # How to use
- - If you have a IDE (e.g.Intellij IDEA,Eclipse,etc),import the project and excute the main method
+ - If you have an IDE (e.g.Intellij IDEA,Eclipse,etc),import the project and excute the main method
  - I have allready build the **.jar** file (./out/artifacts/) ,you can excute by `java -jar myContracts.jar` .
 # License
 GNU GPLv3
